@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600">
+  <defs>
+    <pattern id="d" width="48" height="48" patternUnits="userSpaceOnUse">
+      <circle cx="24" cy="24" r="2" fill="#0a0a0a" fill-opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="600" fill="#fafafa"/>
+  <rect y="112" width="1600" height="488" fill="url(#d)"/>
+  <rect x="1" y="1" width="1598" height="598" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  <text x="72" y="70" font-family="Geist" font-weight="600" font-size="32" letter-spacing="-.3" fill="#0a0a0a">ECE Lab Manuals</text>
+  <text x="352" y="70" font-family="Geist Mono" font-size="24" fill="#555555">Birzeit University</text>
+  <text x="1528" y="70" text-anchor="end" font-family="Geist Mono" font-size="24" fill="#0a0a0a">birzeit.me ↗</text>
+  <rect y="111" width="1600" height="2" fill="#0a0a0a"/>
+  <text x="72" y="216" font-family="Geist Mono" font-size="26" fill="#555555">Department of Electrical &amp; Computer Engineering</text>
+  <text font-family="Geist" font-weight="600" font-size="124" letter-spacing="-6.8" fill="#0a0a0a">
+    <tspan x="66" y="352">Every ECE lab manual,</tspan>
+    <tspan x="66" y="466">in one place.</tspan>
+  </text>
+  <text x="72" y="548" font-family="Geist Mono" font-size="26" fill="#555555">ENCS4110  /  ENCS4101  /  ENCS5150</text>
+  <text x="1528" y="548" text-anchor="end" font-family="Geist Mono" font-size="26" fill="#555555">Open source</text>
+</svg>
