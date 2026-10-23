@@ -11,7 +11,7 @@ Open, step-by-step lab manuals for the Department of Electrical & Computer Engin
 
 | | Lab | Platform | Links |
 |:--|:--|:--|:--|
-| **ENCS4110** | Computer Design Laboratory | TM4C123 · ARM Cortex-M4 | [Manual](https://encs4110.me/) · [PDF](https://encs4110.me/manual/encs4110_manual.pdf) · [Setup](https://encs4110.me/setup) · [Source](https://github.com/ECE-Birzeit/encs4110) |
+| **ENCS4110** | Computer Design Laboratory | TM4C123 · ARM Cortex-M4 | [Manual](https://encs4110.birzeit.me/) · [PDF](https://encs4110.birzeit.me/manual/encs4110_manual.pdf) · [Setup](https://encs4110.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs4110) |
 | **ENCS4101** | Embedded Systems Laboratory | STM32 · CubeIDE · HAL | [Manual](https://encs4101.birzeit.me/) · [PDF](https://encs4101.birzeit.me/ENCS4101-Manual.pdf) · [Setup](https://encs4101.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs4101) |
 | **ENCS5150** | Advanced Computer Systems Engineering Laboratory | Android (Java) · Spring Boot | [Manual](https://encs5150.birzeit.me/) · [PDF](https://encs5150.birzeit.me/ENCS515-Manual.pdf) · [Setup](https://encs5150.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs5150) |
 
