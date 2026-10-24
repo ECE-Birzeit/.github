@@ -1,4 +1,4 @@
-# Contributing to ECE Lab Manuals
+# Contributing to ECE Labs
 
 These manuals are read by students at the bench, in the middle of a lab session. A wrong pin number or a step that no longer matches the IDE costs a whole group their time, so every fix helps, however small.
 

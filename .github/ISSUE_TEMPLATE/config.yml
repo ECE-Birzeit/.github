@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 contact_links:
-  - name: All lab manuals
+  - name: All labs
     url: https://birzeit.me
     about: Find the right lab before opening an issue.
   - name: Contributing guide

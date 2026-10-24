@@ -1,11 +1,11 @@
 <a href="https://birzeit.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ECE-Birzeit/.github/main/profile/assets/banner-dark.png">
-    <img alt="ECE Lab Manuals · Birzeit University. Every ECE lab manual, in one place." src="https://raw.githubusercontent.com/ECE-Birzeit/.github/main/profile/assets/banner-light.png" width="100%">
+    <img alt="ECE Labs · Birzeit University. Every ECE lab, in one place." src="https://raw.githubusercontent.com/ECE-Birzeit/.github/main/profile/assets/banner-light.png" width="100%">
   </picture>
 </a>
 
-Open, step-by-step lab manuals for the Department of Electrical & Computer Engineering at Birzeit University. Each lab has a web manual, a printable PDF, and a setup guide for its toolchain.
+A web platform for the lab manuals of the Department of Electrical & Computer Engineering at Birzeit University. Each lab has a searchable web manual with copy-paste code, a printable PDF, and a setup guide for its toolchain. Fixes go live as soon as they are merged.
 
 ## Labs
 
