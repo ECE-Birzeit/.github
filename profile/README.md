@@ -19,7 +19,7 @@ All labs are listed at **[birzeit.me](https://birzeit.me)**.
 
 ## Contributing
 
-Found a typo, a broken step, or code that doesn't compile? Open an issue or a pull request on the lab's repo. Fixes go live as soon as they're merged.
+Found a typo, a broken step, or code that doesn't compile? Click **Edit this page on GitHub** at the bottom of any manual page, or open an issue on the lab's repo. Fixes go live as soon as they're merged. See the [contributing guide](https://github.com/ECE-Birzeit/.github/blob/main/CONTRIBUTING.md).
 
 Teaching a lab that should be here? [Get in touch](https://mabushelbaia.com).
 

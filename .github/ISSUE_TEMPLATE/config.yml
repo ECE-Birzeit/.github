@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: All lab manuals
+    url: https://birzeit.me
+    about: Find the right lab before opening an issue.
+  - name: Contributing guide
+    url: https://github.com/ECE-Birzeit/.github/blob/main/CONTRIBUTING.md
+    about: How to fix things yourself and run a site locally.

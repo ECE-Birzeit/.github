@@ -1,0 +1,29 @@
+name: Something is wrong in a manual
+description: A typo, a wrong step, code that doesn't work, or an outdated screenshot.
+labels: [bug]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Link to the page, ideally to the section.
+      placeholder: https://encs4101.birzeit.me/experiments/exp1-gpio#step-3-handle-the-interrupt
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+      description: Quote the text or step, and say what happens.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What it should say or do
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: For setup or code problems. OS, IDE and version, board.
+      placeholder: Windows 11, STM32CubeIDE 1.16, NUCLEO-F446RE
