@@ -14,6 +14,7 @@ A web platform for the lab manuals of the Department of Electrical & Computer En
 | **ENCS4110** | Computer Design Laboratory | TM4C123 · ARM Cortex-M4 | [Manual](https://encs4110.birzeit.me/) · [PDF](https://encs4110.birzeit.me/manual/encs4110_manual.pdf) · [Setup](https://encs4110.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs4110) |
 | **ENCS4101** | Embedded Systems Laboratory | STM32 · CubeIDE · HAL | [Manual](https://encs4101.birzeit.me/) · [PDF](https://encs4101.birzeit.me/ENCS4101-Manual.pdf) · [Setup](https://encs4101.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs4101) |
 | **ENCS5150** | Advanced Computer Systems Engineering Laboratory | Android (Java) · Spring Boot | [Manual](https://encs5150.birzeit.me/) · [PDF](https://encs5150.birzeit.me/ENCS515-Manual.pdf) · [Setup](https://encs5150.birzeit.me/setup) · [Source](https://github.com/ECE-Birzeit/encs5150) |
+| **ENCS5101** | Microprocessor and Embedded Systems Laboratory | ARM Cortex-M4 · Arduino Mega · Raspberry Pi | [Manual](https://encs5101.birzeit.me/) · [PDF](https://encs5101.birzeit.me/ENCS5101-Manual.pdf) · [Setup](https://encs5101.birzeit.me/setup/) · [Source](https://github.com/ECE-Birzeit/encs5101) |
 
 All labs are listed at **[birzeit.me](https://birzeit.me)**.
 

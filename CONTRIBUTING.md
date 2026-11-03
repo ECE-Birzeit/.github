@@ -19,6 +19,7 @@ This guide covers every repository in [ECE-Birzeit](https://github.com/ECE-Birze
 | [encs4110-manual](https://github.com/ECE-Birzeit/encs4110-manual) | LaTeX source of the ENCS4110 PDF manual | LaTeX |
 | [encs4101](https://github.com/ECE-Birzeit/encs4101) | ENCS4101 Embedded Systems Laboratory site | VitePress |
 | [encs5150](https://github.com/ECE-Birzeit/encs5150) | ENCS5150 Advanced Computer Systems Engineering Laboratory site | VitePress |
+| [encs5101](https://github.com/ECE-Birzeit/encs5101) | ENCS5101 Microprocessor and Embedded Systems Laboratory site | VitePress |
 | [landing-page](https://github.com/ECE-Birzeit/landing-page) | [birzeit.me](https://birzeit.me), the list of all labs | Static HTML |
 
 ## Running a site locally
